@@ -2,7 +2,7 @@
 import _ = require("underscore")
 import contextActions = require("../actionManagement/contextActions")
 import sharedCalculator = require("../actionManagement/sharedASTStateCalculator")
-import parser=require("raml-1-parser");
+import parser=require("@evches/raml-1-parser");
 import hl=parser.hl;
 import lowLevel = parser.ll;
 import search=parser.search;

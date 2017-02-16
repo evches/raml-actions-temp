@@ -1,13 +1,13 @@
 {
-  "name": "raml-actions",
+  "name": "@evches/raml-actions",
   "version": "0.0.14",
   "main": "dist/index.js",
   "bugs": {
     "url": "https://github.com/mulesoft/raml-actions/issues"
   },
   "dependencies": {
-    "raml-1-parser": "1.1.14",
-    "raml-suggestions": "0.0.27",
+    "@evches/raml-1-parser": "1.1.14",
+    "@evches/raml-suggestions": "0.0.27",
     "underscore": "^1.8.3"
   },
   "description": "[![Build Status](https://travis-ci.org/mulesoft/raml-actions.svg?branch=code)](https://travis-ci.org/mulesoft/raml-actions)",

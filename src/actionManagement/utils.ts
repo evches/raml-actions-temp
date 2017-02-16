@@ -2,7 +2,7 @@
 
 import path = require("path")
 import fs = require("fs")
-import parser=require("raml-1-parser");
+import parser=require("@evches/raml-1-parser");
 import search=parser.search;
 import hl=parser.hl;
 import ll=parser.ll;
