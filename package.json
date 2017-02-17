@@ -1,6 +1,6 @@
 {
   "name": "@evches/raml-actions",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "main": "dist/index.js",
   "bugs": {
     "url": "https://github.com/mulesoft/raml-actions/issues"
